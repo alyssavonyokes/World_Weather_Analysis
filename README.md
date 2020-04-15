@@ -17,8 +17,9 @@ Create a Pandas DataFrame with 500 or more of the world’s unique cities and th
 1. Collect the data.
 2. Create Exploratory Analysis with Visualization.
 - Create scatter plots of the weather data for the following comparisons:
-  -> Latitude versus temperature
-  -> Latitude versus humidity
+    - Latitude versus temperature
+    
+    - Latitude versus humidity
   -> Latitude versus cloudiness
   -> Latitude versus wind speed
 - Determine the correlations for the following weather data:
