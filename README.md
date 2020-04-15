@@ -41,7 +41,7 @@ Create a Pandas DataFrame with 500 or more of the world’s unique cities and th
     
     - Latitude and wind speed
 3. Visualize Travel Data. 
-    - Create a heatmap with pop-up markers that can display information on specific cities based on a customer’s travel preferences.
+- Create a heatmap with pop-up markers that can display information on specific cities based on a customer’s travel preferences.
     
 ## Challenge Overview
 
