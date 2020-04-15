@@ -20,18 +20,26 @@ Create a Pandas DataFrame with 500 or more of the world’s unique cities and th
     - Latitude versus temperature
     
     - Latitude versus humidity
-  -> Latitude versus cloudiness
-  -> Latitude versus wind speed
+     
+    - Latitude versus cloudiness
+    
+    - Latitude versus wind speed
 - Determine the correlations for the following weather data:
-  -> Latitude and temperature
-  -> Latitude and humidity
-  -> Latitude and cloudiness
-  -> Latitude and wind speed
+    - Latitude and temperature
+    
+    - Latitude and humidity
+    
+    - Latitude and cloudiness
+    
+    - Latitude and wind speed
 - Create a series of heatmaps using the Google Maps and Places API that showcases the following:
-  -> Latitude and temperature
-  -> Latitude and humidity
-  -> Latitude and cloudiness
-  -> Latitude and wind speed
+    - Latitude and temperature
+    
+    - Latitude and humidity
+    
+    - Latitude and cloudiness
+    
+    - Latitude and wind speed
 3. Visualize Travel Data. 
     - Create a heatmap with pop-up markers that can display information on specific cities based on a customer’s travel preferences.
     
