@@ -47,9 +47,11 @@ Create a Pandas DataFrame with 500 or more of the world’s unique cities and th
 
 Implement the feedback from the Beta testers.
 
-1. A weather description to the pop-up markers for customers so that they know what the weather is as they are traveling
-2. A notation in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time
-3. A map that shows the directions for customers’ travel itinerary
+1. A weather description to the pop-up markers for customers so that they know what the weather is as they are traveling.
+
+2. A notation in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
+
+3. A map that shows the directions for customers’ travel itinerary.
 
 ## Resources
 
@@ -57,3 +59,9 @@ Data Source: PyBer_ride_data.csv
 Software: Python 3.6.1 and Jupyter Notebook
 
 ## Challenge Summary 
+
+1. See: Weather_Database.ipynb
+
+2. See: Vacation_Search.ipynb
+
+3. See: Vacation_Itenerary.ipynb
